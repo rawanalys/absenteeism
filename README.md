@@ -27,3 +27,6 @@ The goal of this project is to assist HR and management teams in identifying emp
 - **Jupyter Notebook** – For data exploration and experimentation
 
 ---
+## 📬 Contact
+
+For any questions or collaboration, feel free to reach out via LinkedIn or raise an issue in this repo.
